@@ -1,5 +1,5 @@
 # Copy this file to config.yml to get started and then add your own configuration.
-# Full documentation here: https://github.com/CryptoSignal/crypto-signal/blob/master/docs/config.md
+
 
 settings:
   update_interval: 300
